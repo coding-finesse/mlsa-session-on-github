@@ -3,6 +3,9 @@
 <h2>Workshop: Introduction to Git, GitHub and Customize your GitHub profile!</h2>
 
 <h2>Host: Aarzoo Sharma</h2>
+
+![Screenshot (970)](https://user-images.githubusercontent.com/78272033/188505353-0ef5f776-03ef-4bcd-af45-8a677e89526c.png)
+
 <h3>Link to the slides: <a href="https://1drv.ms/p/s!AiZaBrZvKrl9iHLSNoqZERS6eU0v">Workshop Slides</a></h3>
 
 <h3>Link to the workshop recording: <a href="https://drive.google.com/file/d/1xybTlTVuzKhpCFZf_G2qa_7ckS-UbHs9/view?usp=sharing">Click here!</a></h3>
